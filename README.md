@@ -1,1 +1,3 @@
 # clubulator
+
+** Project Detail**
